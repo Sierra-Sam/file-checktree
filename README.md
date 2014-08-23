@@ -5,20 +5,17 @@ which is, in turn, derived from the core Perl function, `validate()`.
 
 AUTHOR
 ------
-File::CheckTree was derived from lib/validate.pl which was
-written by Larry Wall.
-Revised by Paul Grassie <F<grassie@perl.com>> in 2002.
-Revised by Guy Shaw <F<gshaw@acm.org>> in 2014.
+  File::CheckTree was derived from lib/validate.pl,
+  which was written by Larry Wall.
+  Revised by Paul Grassie <F<grassie@perl.com>> in 2002.
+  Revised by Guy Shaw <F<gshaw@acm.org>> in 2014.
 
 IMPROVEMENTS
 ------------
 
 The main changes are:
-
     1) Alternative interfaces;
-
     2) More suitable for tests that have been created dynamically;
-
     3) Automatic management of duplicative error messages;
 
 
